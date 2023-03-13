@@ -2,7 +2,7 @@
 
 - ⚡ I’m learning **Java**
 
-SKILLS
+#### SKILLS
 
 <b>Backend:</b> Java Core / Java 11  / Spring (MVC, Boot, Data, Security) / Hibernate / SQL: MySQL, PostgreSQL / JUnit / Mockito 
 
