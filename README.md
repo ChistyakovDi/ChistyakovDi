@@ -1,9 +1,10 @@
 ### Hey there 👋, my name is Dmitriy! I'm novice Java Developer
 
-- ⚡ I’m learning **Java**
 
-<b>SKILLS:</b> Java Core / Java 11  / Spring (MVC, Boot, Data, Security) / Hibernate / SQL: MySQL, PostgreSQL / JUnit / Mockito 
+⚡<b>SKILLS:</b> Java Core / Java 11  / Spring (MVC, Boot, Data, Security) / Hibernate / SQL: MySQL, PostgreSQL / JUnit / Mockito 
 
-![](https://user-images.githubusercontent.com/111275407/223081072-9de4ac30-a3ea-46d5-9742-c189e66f4a56.gif)
+
+  ![any11](https://user-images.githubusercontent.com/111275407/225988084-9ba866b8-be73-43b2-be34-81c30e15c0a5.gif)
+![any22](https://user-images.githubusercontent.com/111275407/225988106-6db7f85e-cb42-4f8a-90ee-2a9134a4346a.gif)
 
 ![](https://komarev.com/ghpvc/?username=ChistyakovDi)
